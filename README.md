@@ -1,7 +1,7 @@
 # Praktik Terpadu RET503: Data dan YOLO (Deteksi Botol dan Box)
 
 - **Nama / NIM:** Nanik Purwaningrum / 4222401070
-- **Kelompok / anggota:** [PBL NEXSUS OMNI 3 RODA]
+- **Kelompok / anggota:** PBL NEXSUS OMNI 3 RODA
 - **Kelas objek:** `botol` (0) dan `box` (1)
 - **Model:** YOLOv8n (Ultralytics 8.4.188, GPU Tesla T4 di Google Colab)
 
