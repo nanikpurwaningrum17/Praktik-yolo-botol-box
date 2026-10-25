@@ -1,0 +1,5 @@
+nim,nama,waktu,komputer,dataset_sidik_jari,eksperimen,perubahan,mAP50,mAP50-95,P,R,ms,menit
+4222401070,Nanik Purwaningrum,2026-10-25 05:59:15,3f770fcfe656,9630ac138b4d,E1_pretrained,-,0.7258,0.3463,0.7265,0.7500,6.31,0.65
+4222401070,Nanik Purwaningrum,2026-10-25 05:59:15,3f770fcfe656,9630ac138b4d,E2_scratch,-,0.0749,0.0113,0.0029,0.7778,3.33,0.57
+4222401070,Nanik Purwaningrum,2026-10-25 05:59:15,3f770fcfe656,9630ac138b4d,E3_tuning,imgsz=640,0.5848,0.2502,0.6704,0.5444,10.56,0.75
+4222401070,Nanik Purwaningrum,2026-10-25 05:59:15,3f770fcfe656,9630ac138b4d,TEST:E1_pretrained,-,0.9783,0.5913,0.7677,0.9504,,

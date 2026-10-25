@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+hasil_balik/
+kirim_colab.zip
+hasil*.zip
+venv/
